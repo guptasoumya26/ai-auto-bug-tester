@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-openai
 playwright
 streamlit
 jinja2

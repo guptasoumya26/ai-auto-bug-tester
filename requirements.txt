@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+playwright
+streamlit
+jinja2
+python-dotenv
+bs4
